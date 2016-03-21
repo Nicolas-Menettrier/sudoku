@@ -1,6 +1,8 @@
 # sudoku
  Solveur de sudoku en collaboration avec https://github.com/ARNAUDPINTA/
 
+Pour compiler, make re.
+
 Notion abordées :
   - Liste chainée;
   - Algorithmie;
